@@ -1,6 +1,6 @@
 pkgbase = libupnpp
 	pkgdesc = A C++ wrapper for libupnp - used with upmpdcli or upplay
-	pkgver = r139.c758228
+	pkgver = r177.6b0bbc7
 	pkgrel = 1
 	url = http://www.lesbonscomptes.com/upplay/downloads.html
 	arch = x86_64
