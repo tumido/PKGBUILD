@@ -2,7 +2,7 @@
 # Contributor: Tristelune <tristelune@archlinux.info>
 
 pkgname=libupnpp
-pkgver=r177.6b0bbc7
+pkgver=r200.52da86a
 pkgrel=1
 pkgdesc="A C++ wrapper for libupnp - used with upmpdcli or upplay"
 url="http://www.lesbonscomptes.com/upplay/downloads.html"
